@@ -124,7 +124,7 @@ With this idea, you could have a centralized way to:
 See below for our proposed schedule on next steps
  after Wit-Ace 2021 submission.
 
-  ![roadmap](https://user-images.githubusercontent.com/86097511/122521804-e262cc80-d032-11eb-9d84-0bf860250d52.PNG)
+  ![roadmap](https://user-images.githubusercontent.com/86097511/122599784-82007900-d08c-11eb-8b7b-47e37160dd30.PNG)
 
 
 # Getting Started
