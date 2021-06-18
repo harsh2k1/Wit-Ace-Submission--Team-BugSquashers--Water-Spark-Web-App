@@ -128,9 +128,12 @@ See below for our proposed schedule on next steps
 
 
 # Getting Started
-- Download the code in zip format
-- **Create a new folder in **
-- Copy paste the html code in your editor and open with Live server.
+- Download the code in zip format given on top of readme file
+- Extract the files
+- Click on the path to the folder in which you are and type **cmd**
+- Type **code .**
+- It will open files in VS code.
+- Go to **index.html** and open with live server.
 - Follow the links to view features.
 
 # Built with
